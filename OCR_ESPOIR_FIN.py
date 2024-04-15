@@ -20,7 +20,7 @@ import pygame
 # Initialize webcam
 webcam = cv2.VideoCapture(0)
 
-client = OpenAI(api_key = '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')
+client = OpenAI(api_key = 'key')
 
 
 
